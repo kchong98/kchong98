@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kchong98
+- 👋 Hi, I’m Kevin!
 - 👀 I’m interested in Data Science, Machine Learning, AI, and Embedded Systems programming.
 - 🌱 I’m currently learning how to apply machine learning to cyber-physical systems.
 - 💞️ I’m looking to collaborate on data science competitions
